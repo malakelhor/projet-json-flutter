@@ -1,0 +1,7 @@
+{
+  "persons": [
+    {"id": 1, "name": "John", "surname": "Doe", "options": [false, true, false]},
+    {"id": 2, "name": "Jane", "surname": "Doe", "options": [true, false, true]},
+    {"id": 3, "name": "Alice", "surname": "Smith", "options": [false, false, true]}
+  ]
+}
